@@ -7,6 +7,7 @@ function NavBar() {
         <li><Link href="/contact">Contact</Link></li>
         <li><Link href="/blog">Blog</Link></li>
         <li><Link href="/dashboard">Dashboard</Link></li>
+        <li><Link href="/user">User</Link></li>
     </>
   return (
     <div className="navbar bg-base-100  container mx-auto">
